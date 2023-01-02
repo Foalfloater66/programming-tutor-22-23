@@ -1,0 +1,12 @@
+# MacOS
+.DS_Store
+
+# Java & IntelliJ
+.idea
+*.iml
+out/
+
+# Content
+.week*/
+week1/
+week1/src/Main.java
